@@ -95,11 +95,7 @@ osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-<<<<<<< Updated upstream
 research_gate_profile: Rui-Wu-42 # your profile on ResearchGate
-=======
-research_gate_profile: # your profile on ResearchGate
->>>>>>> Stashed changes
 scholar_userid: iouPIcQAAAAJ&hl # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
