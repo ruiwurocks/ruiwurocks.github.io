@@ -9,8 +9,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$white-color};
-  --global-hover-color: #{$white-color};
+  --global-theme-color: #3D588C;
+  --global-hover-color: #3D588C;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -41,7 +41,6 @@
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
-
 
   #light-toggle-system {
     padding-left: 10px;
